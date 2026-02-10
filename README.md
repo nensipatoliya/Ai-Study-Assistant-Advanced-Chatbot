@@ -47,7 +47,7 @@ real-world educational application.
 
 ### 1️⃣ Clone Repository
 
-    git clone 
+    git clone https://github.com/nensipatoliya/Ai-Study-Assistant-Advanced-Chatbot.git
     cd project-folder
 
 ### 2️⃣ Install Dependencies
