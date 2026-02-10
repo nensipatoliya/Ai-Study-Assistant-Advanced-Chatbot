@@ -1,0 +1,34 @@
+Student Study Notes - AI & ML Basics
+
+Machine Learning (ML): Machine Learning is a subset of Artificial
+Intelligence that allows computers to learn patterns from data and make
+predictions or decisions without being explicitly programmed. Common
+types include Supervised Learning, Unsupervised Learning, and
+Reinforcement Learning.
+
+Deep Learning (DL): Deep Learning is a subset of Machine Learning that
+uses Neural Networks with multiple layers to learn complex patterns. It
+is widely used in image recognition, speech recognition, and autonomous
+systems.
+
+Natural Language Processing (NLP): NLP is a field of AI that helps
+computers understand, interpret, and generate human language. It is used
+in chatbots, translation systems, sentiment analysis, and voice
+assistants.
+
+Computer Vision: Computer Vision enables computers to understand and
+interpret visual data like images and videos. It is used in face
+recognition, object detection, medical imaging, and self-driving cars.
+
+Large Language Models (LLM): LLMs are advanced AI models trained on
+large text datasets. They can understand context, generate text, answer
+questions, and help in coding and learning tasks.
+
+Generative AI: Generative AI creates new content such as text, images,
+audio, and video. Examples include AI text generators, image generators,
+and code generation tools.
+
+Retrieval Augmented Generation (RAG): RAG is an AI technique that
+combines searching external knowledge sources with generative AI. It
+improves accuracy by retrieving relevant information before generating
+answers.
